@@ -45,4 +45,7 @@
   <url>
     <loc>https://downlit.r-lib.org/reference/is_low_change.html</loc>
   </url>
+  <url>
+    <loc>https://downlit.r-lib.org/reference/register_default_package_ref.html</loc>
+  </url>
 </urlset>
